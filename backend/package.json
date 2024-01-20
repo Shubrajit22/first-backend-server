@@ -1,11 +1,10 @@
 {
-  "name": "backend",
+  "name": "practice",
   "version": "1.0.0",
-  "description": "first server",
+  "description": "",
   "main": "index.js",
-  
   "scripts": {
-   "start":"node index.js"
+    "start": "node index"
   },
   "author": "shubro",
   "license": "ISC",
